@@ -1,5 +1,5 @@
 export interface CompareData {
   age: number;
-  height: number;
+  happiness: number;
   income: number;
 }

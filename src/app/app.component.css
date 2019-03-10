@@ -1,0 +1,9 @@
+/* Right-aligned section inside the top navigation */
+.container-fluid a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.navbar-right {
+    float: right;
+}
