@@ -3,7 +3,7 @@ A serverless [GNH(Gross National Happiness)](https://en.wikipedia.org/wiki/Gross
 
 ## Technologies used
 1. AWS Lambda, API Gateway, DynamoDB, Cognito, Cloudfront, S3
-2. Node.JS, Angular
+2. Node.JS used in Lambda, Angular for front-end app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3.
 
